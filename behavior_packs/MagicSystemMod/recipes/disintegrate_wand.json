@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:disintegrate_wand"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "  N",
+      " S ",
+      "S  "
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:nether_star"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "magic:disintegrate_wand",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:nether_star"
+      }
+    ]
+  }
+}

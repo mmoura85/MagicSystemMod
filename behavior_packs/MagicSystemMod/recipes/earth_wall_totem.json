@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:earth_wall_totem"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "SSS",
+      "SES",
+      "SSS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:cobblestone"
+      },
+      "E": {
+        "item": "minecraft:ender_pearl"
+      }
+    },
+    "result": {
+      "item": "magic:earth_wall_totem",
+      "count": 3
+    },
+    "unlock": [
+      {
+        "item": "minecraft:ender_pearl"
+      }
+    ]
+  }
+}

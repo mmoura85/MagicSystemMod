@@ -1,0 +1,57 @@
+{
+  "resource_pack_name": "Magic System",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "awakening_elixir": {
+      "textures": "textures/items/awakening_elixir"
+    },
+    "mana_potion": {
+      "textures": "textures/items/mana_potion"
+    },
+    "mana_enhancement_potion": {
+      "textures": "textures/items/mana_enhancement_potion"
+    },
+    "attribute_enhancement_potion": {
+      "textures": "textures/items/attribute_enhancement_potion"
+    },
+    "fire_staff": {
+      "textures": "textures/items/fire_staff"
+    },
+    "shield_amulet": {
+      "textures": "textures/items/shield_amulet"
+    },
+    "heal_staff": {
+      "textures": "textures/items/heal_staff"
+    },
+    "disintegrate_wand": {
+      "textures": "textures/items/disintegrate_wand"
+    },
+    "ice_staff": {
+      "textures": "textures/items/ice_staff"
+    },
+    "freeze_crystal": {
+      "textures": "textures/items/freeze_crystal"
+    },
+    "trap_orb": {
+      "textures": "textures/items/trap_orb"
+    },
+    "flying_broom": {
+      "textures": "textures/items/flying_broom"
+    },
+    "lightning_staff": {
+      "textures": "textures/items/lightning_staff"
+    },
+    "magic_missile_wand": {
+      "textures": "textures/items/magic_missile_wand"
+    },
+    "earth_staff": {
+      "textures": "textures/items/earth_staff"
+    },
+    "earth_wall_totem": {
+      "textures": "textures/items/earth_wall_totem"
+    },
+    "mining_focus": {
+      "textures": "textures/items/mining_focus"
+    }
+  }
+}

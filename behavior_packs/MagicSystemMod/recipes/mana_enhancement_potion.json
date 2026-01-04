@@ -1,0 +1,40 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:mana_enhancement_potion"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "DED",
+      "LBL",
+      "DGD"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "L": {
+        "item": "minecraft:lapis_block"
+      },
+      "B": {
+        "item": "minecraft:glass_bottle"
+      },
+      "G": {
+        "item": "minecraft:glowstone"
+      }
+    },
+    "result": {
+      "item": "magic:mana_enhancement_potion",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:ender_eye"
+      }
+    ]
+  }
+}

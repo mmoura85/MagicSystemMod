@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "magic:earth_wall_totem",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "earth_wall_totem",
+      "minecraft:display_name": {
+        "value": "Earth Wall Totem"
+      },
+      "minecraft:max_stack_size": 16,
+      "minecraft:durability": {
+        "max_durability": 100
+      }
+    }
+  }
+}
