@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "magic:magic_missile_wand",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.sword"
+      }
+    },
+    "components": {
+      "minecraft:icon": "magic_missile_wand",
+      "minecraft:display_name": {
+        "value": "Magic Missile Wand"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:durability": {
+        "max_durability": 200
+      },
+      "minecraft:hand_equipped": true
+    }
+  }
+}

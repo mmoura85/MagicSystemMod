@@ -1,0 +1,37 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:awakening_elixir"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "DGD",
+      "EBE",
+      "DGD"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "E": {
+        "item": "minecraft:ender_pearl"
+      },
+      "B": {
+        "item": "minecraft:glass_bottle"
+      }
+    },
+    "result": {
+      "item": "magic:awakening_elixir",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:diamond"
+      }
+    ]
+  }
+}

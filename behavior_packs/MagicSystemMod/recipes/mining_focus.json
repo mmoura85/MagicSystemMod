@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:mining_focus"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "DDD",
+      "DSD",
+      " S "
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "magic:mining_focus",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:diamond"
+      }
+    ]
+  }
+}

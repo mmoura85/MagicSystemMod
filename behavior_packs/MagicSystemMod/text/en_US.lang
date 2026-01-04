@@ -1,0 +1,18 @@
+## Items
+item.magic:awakening_elixir.name=Awakening Elixir
+item.magic:mana_potion.name=Mana Potion
+item.magic:mana_enhancement_potion.name=Mana Enhancement Potion
+item.magic:attribute_enhancement_potion.name=Attribute Enhancement Potion
+item.magic:fire_staff.name=Fire Staff
+item.magic:shield_amulet.name=Shield Amulet
+item.magic:heal_staff.name=Healing Staff
+item.magic:disintegrate_wand.name=Disintegration Wand
+item.magic:ice_staff.name=Ice Staff
+item.magic:freeze_crystal.name=Freeze Crystal
+item.magic:trap_orb.name=Trap Orb
+item.magic:flying_broom.name=Flying Broom
+item.magic:lightning_staff.name=Lightning Staff
+item.magic:magic_missile_wand.name=Magic Missile Wand
+item.magic:earth_staff.name=Earth Staff
+item.magic:earth_wall_totem.name=Earth Wall Totem
+item.magic:mining_focus.name=Mining Focus

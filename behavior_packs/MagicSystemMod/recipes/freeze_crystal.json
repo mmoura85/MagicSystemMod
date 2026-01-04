@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:freeze_crystal"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " I ",
+      "IDI",
+      " I "
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:blue_ice"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "magic:freeze_crystal",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:blue_ice"
+      }
+    ]
+  }
+}

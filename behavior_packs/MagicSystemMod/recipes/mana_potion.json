@@ -1,0 +1,37 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "magic:mana_potion"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " L ",
+      "GBG",
+      " R "
+    ],
+    "key": {
+      "L": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "B": {
+        "item": "minecraft:glass_bottle"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "magic:mana_potion",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:lapis_lazuli"
+      }
+    ]
+  }
+}
